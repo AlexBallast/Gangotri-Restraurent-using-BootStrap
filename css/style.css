@@ -1,1 +1,16 @@
 @import url('https://fonts.googleapis.com/css?family=Poppins');
+
+.carousel-item img{
+    max-width: 100%;
+    height: auto;
+}
+
+.carousel-item active img{
+    max-width: 100%;
+    height: auto;
+}
+
+.carousel-inner{
+    max-width: 100%;
+    height: auto;
+}
