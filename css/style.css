@@ -14,3 +14,25 @@
     max-width: 100%;
     height: auto;
 }
+
+.container.fluid.padding.text-center{
+    padding-top: 2.5%;
+}
+
+.thali_description p{
+    text-align: left;
+    vertical-align: center;
+}
+
+.thali_description h3{
+    text-align: center;
+    padding-top: 1.5%;
+    padding-bottom: 1.5%;
+}
+
+.row.text-center.padding{
+    padding-bottom: 1.5%;
+    align-items: center;
+    text-align: center;
+}
+
